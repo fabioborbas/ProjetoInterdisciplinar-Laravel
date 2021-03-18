@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.TablePerfil{
+    font-size: 16pt;
+    margin: auto;
+}
+#MensagemPedido{
+  color: red;
+}
+#acoes{
+  text-align: center;
+}
+#numeroservico{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
